@@ -1,0 +1,24 @@
+{
+  "name": "bson-storage",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sanoy24/bson-storage.git"
+  },
+  "dependencies": {
+    "bson": "^6.10.3",
+    "fs-extra": "^11.3.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sanoy24/bson-storage/issues"
+  },
+  "homepage": "https://github.com/Sanoy24/bson-storage#readme",
+  "description": ""
+}
